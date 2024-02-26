@@ -1,0 +1,9 @@
+﻿  tcp-client.cpp
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(12,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'char *'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(12,10): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'char *'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(31,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'int (__cdecl *)(void)'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(31,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)(void)'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(51,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'int (__cdecl *)(void)'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(51,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)(void)'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(85,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'int (__cdecl *)(void)'
+C:\dev\Tcp-network\Tcp-network\tcp-client.cpp(85,10): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)(void)'
